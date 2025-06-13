@@ -19,7 +19,8 @@ btn.addEventListener("click", () => {
 
          deltbn.addEventListener("click" ,() => {
    
-          ul.removeChild(li);     
+          ul.removeChild(li);    
+           
     } )
     }
    
