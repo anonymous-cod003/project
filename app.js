@@ -17,10 +17,6 @@ btn.addEventListener("click", () => {
         li.appendChild(deltbn);
         inp.value = '';
 
-         deltbn.addEventListener("click" ,() => {
-   
-          ul.removeChild(li);     
-    } )
     }
    
 });
